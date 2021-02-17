@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title> Students details </title>
+    <title> client details </title>
 </head>
 
 <body>
